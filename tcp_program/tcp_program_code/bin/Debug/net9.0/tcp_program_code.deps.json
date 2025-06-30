@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tcp_program_code/1.0.0": {
+        "runtime": {
+          "tcp_program_code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tcp_program_code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

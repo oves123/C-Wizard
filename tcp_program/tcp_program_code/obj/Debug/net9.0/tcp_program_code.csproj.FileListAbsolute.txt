@@ -1,0 +1,14 @@
+C:\Users\Lenovo\tcp_program\tcp_program_code\bin\Debug\net9.0\tcp_program_code.exe
+C:\Users\Lenovo\tcp_program\tcp_program_code\bin\Debug\net9.0\tcp_program_code.deps.json
+C:\Users\Lenovo\tcp_program\tcp_program_code\bin\Debug\net9.0\tcp_program_code.runtimeconfig.json
+C:\Users\Lenovo\tcp_program\tcp_program_code\bin\Debug\net9.0\tcp_program_code.dll
+C:\Users\Lenovo\tcp_program\tcp_program_code\bin\Debug\net9.0\tcp_program_code.pdb
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.AssemblyInfoInputs.cache
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.AssemblyInfo.cs
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.dll
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\refint\tcp_program_code.dll
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.pdb
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\tcp_program_code.genruntimeconfig.cache
+C:\Users\Lenovo\tcp_program\tcp_program_code\obj\Debug\net9.0\ref\tcp_program_code.dll
